@@ -29,6 +29,6 @@ int main(){
         sleep(1); 
     }
     system("clear");
-    cout<< "*******************\nTimer ended!\a\nLasted for " << time << " seconds" << "\n*******************\n\n\n\n\n\n" << endl;
+    cout<< "***\nTimer ended!\a\nLasted for " << time << " seconds" << "\n***\n\n\n\n\n\n" << endl;
     
 }
